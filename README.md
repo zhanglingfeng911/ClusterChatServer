@@ -1,0 +1,2 @@
+# ClusterChatServer
+基于muduo网络库实现高性能的聊天服务器，基于nginx的tcp负载均衡实现聊天服务器集群功能，引入redis中间件消息队列实现跨服务器通信
